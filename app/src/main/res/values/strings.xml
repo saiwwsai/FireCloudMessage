@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FireCloudMessage</string>
+    <string name="ringing">RINGING</string>
+    <string name="mimic_alarm">ALARM RINGING SUPER LOUD</string>
+    <string name="question">How can we help you?</string>
+    <string name="ringTitle">I need to ring my phone.</string>
+    <string name="GPSTitle">I need to know the location of my phone.</string>
+</resources>
