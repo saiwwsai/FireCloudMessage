@@ -11,26 +11,6 @@
         android:layout_height="match_parent"
         android:orientation="vertical">
 
-        <Button
-            android:id="@+id/ring_bt"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:onClick="button_clicked"
-            android:text="RING" />
-
-        <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:id="@+id/stop"
-            android:text="STOP THE ALARM"/>
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="ring status"
-            android:id="@+id/tv_test"/>
-
-
 
     </LinearLayout>
 
